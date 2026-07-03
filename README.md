@@ -18,5 +18,5 @@ AI Resume Analyzer is a Python project that analyzes a user's resume based on th
 
 ```bash
 python app.py
-AUTHOR
+## AUTHOR
 Thrupthi S Meti
